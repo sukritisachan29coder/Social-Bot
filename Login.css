@@ -1,0 +1,74 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+.bbb{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif,'Raleway';
+    background-image:url(https://cdn5.vectorstock.com/i/1000x1000/03/44/robot-chatter-bot-say-hi-over-circuit-background-vector-19840344.jpg);
+    width:100%;
+    height:100%;
+    background-size: cover;
+}
+.login-box {
+ 	width: 280px;
+ 	position: absolute;
+ 	top: 40% ;
+ 	left : 25% ;
+ 	transform: translate(-50%,-50%);
+ 	color: red;
+
+ }
+.login-box h1{
+	color: rgb(74, 56, 107);
+	float: left;
+	font-size: 40px;
+	border-bottom: 3px solid #ffa500;
+	margin-bottom: 50px;
+	padding: 13px;
+
+}
+.textbox {
+	width: 100%;
+	overflow: hidden;
+	font-size: 20px;
+	padding: 8px 0;
+	margin: 8px 0;
+	border-bottom: 1px solid  #6666ff;
+}
+.textbox i{
+	width: 26px;
+	float: left;
+	text-align: center;
+
+}
+.textbox input{
+	border: none;
+	outline: none;
+	background: none;
+	color: red;
+	font-size: 18px;
+	width: 80%;
+	float: left;
+	margin: 0 10px;
+
+
+}
+#login {
+	width: 100%;
+	background: none;
+	border: 2px solid #800000;
+	color: red;
+	padding: 5px;
+	font-size: 18px;
+	cursor: pointer;
+	margin: 12px 0;
+}
+.login-box a{
+	text-decoration: none;
+	font-size: 15px;
+	line-height: 20px;
+	color: grey;
+
+}
+
+
+
